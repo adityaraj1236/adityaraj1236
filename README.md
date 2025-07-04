@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @adityaraj1236
-- 👀 I’m interested in Software developemnt 
-- 🌱 I’m currently learning MERN Stack Devleopment
-- 💞️ I’m looking to collaborate on Front end Development Projects 
-- 📫 you can reach me via my linkeidn profile https://www.linkedin.com/in/aditya-raj-124b71242/
+💻 Full Stack Developer | React · Node · MongoDB
+🚀 Currently building XpansHil — Construction SaaS from scratch
+🔍 Open to freelance/part-time roles
+🌐 https://www.linkedin.com/in/aditya-raj-124b71242/ | 📫 adityaraj06072003@example.com
 
 
 <!---

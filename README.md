@@ -1,7 +1,7 @@
-💻 Full Stack Developer | React · Node · MongoDB
-🚀 Currently building XpansHil — Construction SaaS from scratch
-🔍 Open to freelance/part-time roles
-🌐 https://www.linkedin.com/in/aditya-raj-124b71242/ | 📫 adityaraj06072003@example.com
+💻 Full Stack Developer | React · Node.js · MongoDB · Express  
+🚀 Solo-building **XpansHil** – A smart Construction SaaS platform  
+🔍 Open to freelance & part-time roles | Passionate about building real-world products  
+🌐 [LinkedIn](https://www.linkedin.com/in/aditya-raj-124b71242/) • 📫 adityaraj06072003@example.com
 
 
 <!---
